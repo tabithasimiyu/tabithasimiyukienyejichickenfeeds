@@ -1,0 +1,53 @@
+h1
+{
+
+font-family: lucida;
+font-size: 50px;
+text-align: left;
+color: blue;
+font-style: italic;
+font-weight: 600;
+{
+<body>
+background-color: pink
+}
+p{
+  color: pink;
+  font-size: 50px;
+  font-weight: 400;
+  font-family: lucida;
+h2
+font-family:helvetica;
+font-size:50px;
+color:pink;
+font-align:left;
+font-style:itallic;
+font-weight:600;
+}
+p{
+h3
+font-family;helvetica;
+font-size:80px;
+color:blue
+text-align:leftt
+font-style:itallic;
+}
+body{
+background-image: url (essy.jpg);
+background-repeat: no-repeat;
+}
+<nav>
+<a href='about.html'>about</a>
+<a href='earning.html'earning<a/>
+<a hrefcontact='contact.html'>contact</a>
+<a location='location.html'>location<
+}
+<div>
+<div class"contact=form">
+<h3 class="contact-title>"<contact us</h3>
+<p>email</p>
+<input>
+<p>message</p>
+<textarea></textarea>
+<buttontype="button'class>
+</div>
